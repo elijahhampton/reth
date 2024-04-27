@@ -31,7 +31,7 @@ path = "db-access.rs"
 
 [[example]]
 name = "network"
-path = "network.rs"
+path = "network/src/main.rs"
 
 [[example]]
 name = "network-txpool"

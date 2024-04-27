@@ -79,6 +79,7 @@ members = [
     "examples/custom-dev-node/",
     "examples/custom-payload-builder/",
     "examples/manual-p2p/",
+    "examples/network/",
     "examples/rpc-db/",
     "examples/trace-transaction-cli/",
     "examples/polygon-p2p/",
